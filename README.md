@@ -1,0 +1,1 @@
+# Entendendo-por-tras-dos-panos-o-funcionamento-de-uma-Rede-Neural-Artificial
