@@ -1,1 +1,2 @@
-# Entendendo-por-tras-dos-panos-o-funcionamento-de-uma-Rede-Neural-Artificial
+## Entendendo "por trás dos panos" o funcionamento de uma `Rede Neural Artificial`
+---
